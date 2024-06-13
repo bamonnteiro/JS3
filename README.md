@@ -1,1 +1,2 @@
-# JS3
+# Javascript3
+Lógica de Programação - 3
